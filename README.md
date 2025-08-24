@@ -13,8 +13,6 @@ A FiveM drug packing resource with ox_lib integration, level system, and QBox me
 
 - `ox_lib`
 - `ox_target` 
-- `ox_inventory`
-- `qb-core`
 
 ## Configuration
 

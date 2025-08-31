@@ -2,6 +2,14 @@
 
 A FiveM drug packing resource with ox_lib integration, level system, and QBox metadata storage.
 
+## Preivew
+<img width="695" height="882" alt="image" src="https://github.com/user-attachments/assets/056dab6e-3d6e-4130-aae9-f84fc075ef2f" />
+<img width="466" height="502" alt="image" src="https://github.com/user-attachments/assets/eac326ac-8694-422e-8cf3-276b29aea5ff" />
+<img width="555" height="430" alt="image" src="https://github.com/user-attachments/assets/cae368e1-be98-456c-8140-cbb932647c30" />
+<img width="779" height="610" alt="image" src="https://github.com/user-attachments/assets/35a5b496-f107-4eac-a5dc-5f16cf59339e" />
+<img width="659" height="616" alt="image" src="https://github.com/user-attachments/assets/377a5740-275b-4098-8af5-516715b957dd" />
+
+
 ## Installation
 
 1. **Download** the resource and place it in your server's `resources` folder
